@@ -1,7 +1,11 @@
 # Udagram Image Filtering Microservice
 
 ## Elastic Beanstalk Endpoint URL 
+### Given URL 
 http://udagram-image-filter-dev222.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
+
+### Alternative URL 
+http://udagram-image-filter-dev222.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2019/12/shutterstock_549575962.jpg
 
 
 ## Project Description
